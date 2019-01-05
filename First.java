@@ -17,8 +17,8 @@ public class FirstPrgm {
 		System.out.println("Hi, I am learning following subjects:");
 		System.out.println("1. Devops Basics");
 		System.out.println("2. GitHub");
-		System.out.println("3. Version controlling");
-		System.out.println("3. Version controlling");
+		System.out.println("3. Chef");
+		System.out.println("4. Jenkins");
 
 	}
 
